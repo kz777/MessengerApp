@@ -1,0 +1,1 @@
+This is a sample Rails app was built to show how to incorporate a database by building the app a for a messaging services.
